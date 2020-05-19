@@ -6,4 +6,4 @@ It shows your and killer's positions when you die for couple of seconds. Only th
 You can customize these models and change colors of the beams.
 
 ## ^.^
-Message me at discord Minfas#2268 or [steam steamcommunity.com/id/minfas/](steamcommunity.com/id/minfas/) if interested.
+Message me at discord Minfas#2268 or [steam steamcommunity.com/id/minfas/](https://steamcommunity.com/id/minfas/) if interested.
