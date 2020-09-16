@@ -2,7 +2,7 @@
 ## Death Display
 ![ddisp](https://i.imgur.com/4fQ3WKT.png)
 ### What it does?
-It shows your and killer's positions when you die for couple of seconds. Only the victim player can see these models and beams.
+It shows your and killer's positions for couple of seconds when you die. Only the victim (the one who died) can see these models and beams.
 You can customize these models and change colors of the beams.
 
 ## ^.^
